@@ -1,0 +1,12 @@
+{
+  "name": "SHADOW AI - Futuristic Android Assistant",
+  "description": "Premium futuristic Android AI assistant with Kotlin & Jetpack Compose, Hindi & English voice interaction, safe Android Intents, photo and video vision analysis, and real project export.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "display-capture"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
